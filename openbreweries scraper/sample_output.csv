@@ -1,0 +1,5 @@
+id,name,brewery_type,street,city,state,postal_code,country,longitude,latitude,phone,website_url
+5128df48-79fc-4f0f-8b52-d06be54d0cec,(405) Brewing Co,micro,1716 Topeka St,Norman,Oklahoma,73069-8224,United States,-97.46818222,35.25738891,4058160490,http://www.405brewing.com
+9c5a66c8-cc13-416f-a5d9-0a769c87d318,(512) Brewing Co,micro,407 Radam Ln Ste F200,Austin,Texas,78745-1197,United States,,,5129211545,http://www.512brewing.com
+34e8c68b-6146-453f-a4b9-1f6cd99a5ada,1 of Us Brewing Company,micro,8100 Washington Ave,Mount Pleasant,Wisconsin,53406-3920,United States,-87.883363502094,42.720108268996,2624847553,https://www.1ofusbrewing.com
+6d14b220-8926-4521-8d19-b98a2d6ec3db,10 Barrel Brewing Co,large,62970 18th St,Bend,Oregon,97701-9847,United States,-121.281706,44.08683531,5415851007,http://www.10barrel.com
