@@ -9,10 +9,10 @@ This repository serves as a growing portfolio of my skills in:
   
 Each project includes:
 
-✔ A dedicated folder
-✔ Python code (.py)
-✔ Sample output
-✔ A clear README.md explaining how the scraper works
+- ✔ A dedicated folder
+- ✔ Python code (.py)
+- ✔ Sample output
+- ✔ A clear README.md explaining how the scraper works
 
 ## 📌 Projects Included
 ### 1. Konga Product Scraper (API-based)
