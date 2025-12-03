@@ -83,7 +83,7 @@ python-web-scraping-projects/
 This repo is designed to:
 
 - Demonstrate core web scraping skills
-- Serve as a portfolio for freelance platforms like Fiverr
+- Serve as a portfolio for freelance platforms like Fiverr and Upwork
 - Show versatility across API-based, HTML-based, and pagination projects
 - Act as a learning resource for anyone new to Python scraping
 
